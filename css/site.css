@@ -97,6 +97,10 @@
             min-width: 400px;
         }
 
+	.h1{
+		color: white;
+	}
+	
         @media (max-width: 1024px) {
             .main-container{
                 padding-top: 1%;
