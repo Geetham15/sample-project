@@ -98,7 +98,7 @@
         }
 
 	.h1{
-		color: red;//changed from g11
+		color: red;//modified the colour green to red from branch g11. Resolved Merge conflicts
 	}
 	
         @media (max-width: 1024px) {
