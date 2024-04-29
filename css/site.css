@@ -98,7 +98,7 @@
         }
 
 	.h1{
-		color: white;
+		color: green; //change from g12
 	}
 	
         @media (max-width: 1024px) {
